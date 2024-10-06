@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chucksIgwe
 - 👀 I’m interested in Software Development, Data and CyberSecurity
-- 🌱 I’m currently learning IT Security
+- 🌱 Cyber security analyst
 - 📫 You can email me on Chucksigwe@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Never done a crime in my life.
+- ⚡ Fun fact: Love video games but I am horrible at playing them.
 
 <!---
 chucksigwe/chucksigwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
